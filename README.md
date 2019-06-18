@@ -7,7 +7,7 @@ Crawl process:
 
 &emsp;&emsp;&emsp;1) Connect to Chrome using selenium .webdriver, request url  
 
-&emsp;&emsp;&emsp;2) Connect to the iframe frame of the web page and get html  
+&emsp;&emsp;&emsp;2) Connect to the iframe of the web page and get html  
 
 &emsp;&emsp;&emsp;3) Analyze html using BeautifulSoup  
 
