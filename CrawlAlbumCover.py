@@ -8,7 +8,7 @@ class AlbumCover():
 
     def __init__(self):
         self.init_url = "http://music.163.com/#/artist/album?id=101988&limit=120&offset=0" #the URL
-        self.folder_path = "C:\D\TheBeatles" #Storage path
+        self.folder_path = "...\TheBeatles" #Storage path
 
     #save image
     def save_img(self, url, file_name):  
