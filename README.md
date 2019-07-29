@@ -13,4 +13,6 @@ Crawl process:
 
 &emsp;&emsp;&emsp;4) Save the picture and name it according to the information about the album  
 
-Result: Climbing 120 pictures and naming it takes about 20min
+Result: Climbing 120 pictures and naming it takes about 66.9s
+
+
