@@ -15,6 +15,6 @@ Crawl process:
 
 Result: Climbing 120 pictures and naming it takes about 66.9s
 
-!()[ResultPic/processing.png]  
+![](ResultPic/processing.png)  
   
-!()[ResultPic/result.png]  
+![](ResultPic/result.png)  
