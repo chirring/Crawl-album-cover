@@ -1,4 +1,4 @@
-# Crawl-album-cover
+# Crawl-album-cover 爬取网易云音乐专辑封面
 Project Overview: Catch the album cover of TheBeatles Netease Cloud Music  
 
 Use packages: selenium, BeautifulSoup, requests  
